@@ -1,0 +1,10 @@
+c:\users\devdstrebul\documents\visual studio 2010\Projects\NCS_Online_2\NCS_Online_2\bin\NCS_Online_2.dll
+c:\users\devdstrebul\documents\visual studio 2010\Projects\NCS_Online_2\NCS_Online_2\bin\NCS_Online_2.pdb
+c:\users\devdstrebul\documents\visual studio 2010\Projects\NCS_Online_2\NCS_Online_2\obj\Debug\NCS_Online_2.dll
+c:\users\devdstrebul\documents\visual studio 2010\Projects\NCS_Online_2\NCS_Online_2\obj\Debug\NCS_Online_2.pdb
+C:\Users\MKuzmich\Desktop\field_collection\NCS_Online_2\bin\NCS_Online_2.dll.config
+C:\Users\MKuzmich\Desktop\field_collection\NCS_Online_2\bin\NCS_Online_2.dll
+C:\Users\MKuzmich\Desktop\field_collection\NCS_Online_2\bin\NCS_Online_2.pdb
+C:\Users\MKuzmich\Desktop\field_collection\NCS_Online_2\obj\Debug\NCS_Online_2.csprojResolveAssemblyReference.cache
+C:\Users\MKuzmich\Desktop\field_collection\NCS_Online_2\obj\Debug\NCS_Online_2.dll
+C:\Users\MKuzmich\Desktop\field_collection\NCS_Online_2\obj\Debug\NCS_Online_2.pdb

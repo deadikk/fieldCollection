@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\DevDstrebul\Documents\WebSite3" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Профиль1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="06/25/2014 11:03:00" />
+    <file relUrl="Styles/window.jpg" publishTime="05/21/2014 16:50:30" />
+    <file relUrl="bin/NCS_Online_2.dll" publishTime="06/25/2014 11:02:59" />
+    <file relUrl="Site.Master" publishTime="04/24/2014 10:52:13" />
+    <file relUrl="Account/Register.aspx" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="Account/Web.config" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="Account/Login.aspx" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="Styles/Site.css" publishTime="05/21/2014 17:43:41" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="Global.asax" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="bin/NCS_Online_2.pdb" publishTime="06/25/2014 11:02:59" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="About.aspx" publishTime="06/04/2014 10:43:03" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="Default.aspx" publishTime="05/21/2014 17:52:58" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/22/2014 14:49:28" />
+    <file relUrl="base.aspx" publishTime="06/04/2014 10:43:36" />
+  </publishProfile>
+</publishData>
